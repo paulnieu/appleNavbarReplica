@@ -1,0 +1,33 @@
+li {
+  background-color: black;
+  display: inline;
+  padding:10px 40px 10px 40px;
+  font-family: helvetica;
+  text-shadow: white;
+  margin:0;
+}
+
+a{
+  text-decoration: none;
+  color: lightgrey;
+  font-size: 1em;
+
+}
+
+img{
+  height:5%;
+  width:5%;
+  border: 0;
+  display: inline;
+  padding: 0;
+}
+
+a:hover {
+  color: silver;
+
+}
+
+i {
+  font-size: 1.2em
+  color:lightgrey;
+}
